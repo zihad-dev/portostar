@@ -1,0 +1,113 @@
+@media (max-width: 575.98px) {
+  .navbar-toggler {
+    border: 0;
+  }
+  .navbar-light .navbar-toggler {
+    color: rgb(190, 188, 188);
+  }
+  .navbar-nav {
+    align-items: start;
+    margin-top: 20px;
+  }
+  .navber_botton {
+    column-gap: 25px;
+    width: 90%;
+    justify-content: center;
+   
+  }
+  /* bnner  */
+  #bnner .bnner-content {
+    text-align: center;
+  }
+  #bnner .bnner-content h1 {
+    font-size: 44px;
+    line-height: 64px;
+    margin-bottom: 20px;
+  }
+  #bnner .images {
+    width: 378px;
+  }
+  #bnner .bnner-btn {
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+    margin-bottom: 47px;
+  }
+  /* about  */
+  #about .about_left {
+    text-align: center;
+  }
+  #about h2 {
+    font-size: 44px;
+    line-height: 64px;
+    width: 368px;
+    margin-bottom: 0;
+  }
+  #about .about_left button {
+    margin: 0 auto;
+  }
+  #about .about_right img {
+    display: none;
+  }
+  /* logo  */
+  #logo .item {
+    width: 167px;
+  }
+  #works .header .subtTaitle {
+    text-align: center;
+  }
+  #works .header .taitle {
+    text-align: center;
+  }
+  #works .header .taitle-para {
+    right: 0px;
+  }
+  #works .item .text {
+    padding: 21px 30px 30px 30px;
+  }
+  #works .item h3 {
+    font-size: 16px;
+    line-height: 27px;
+  }
+  #Testmonail .bottom {
+    column-gap: 51px;
+  }
+  #with .with-item h2 {
+    font-size: 38px;
+    line-height: 52px;
+    margin-bottom: 22px;
+    width: 314px;
+    margin: 0 auto;
+  }
+  #with .with-item button {
+    margin-top: 20px;
+  }
+  footer .footer-left {
+    text-align: center;
+  }
+  footer .footer-left p {
+    width: 308px;
+    margin: 0 auto;
+    margin-bottom: 48px;
+  }
+  /* footer .content-info {
+    text-align: center;
+  } */
+  footer .content-info ul li {
+    text-align: center;
+    margin: 0 auto;
+  }
+  footer .info-icon i {
+    margin: 0;
+  }
+  footer .info-icon {
+    column-gap: 24px;
+    justify-content: center;
+  }
+  footer .item ul {
+    column-gap: 17px;
+  }
+  footer .copyright {
+    text-align: center;
+  }
+}
