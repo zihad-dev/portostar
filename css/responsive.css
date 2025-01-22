@@ -1,4 +1,4 @@
-@media (max-width: 575.98px) {
+@media (max-width: 575.99px) {
   .navbar-toggler {
     border: 0;
   }
@@ -8,6 +8,9 @@
   .navbar-nav {
     align-items: start;
     margin-top: 20px;
+  }
+  .navbar-toggler:focus {
+    box-shadow:none;
   }
   .navber_botton {
     column-gap: 25px;
@@ -109,5 +112,17 @@
   }
   footer .copyright {
     text-align: center;
+  }
+  #Testmonail .bottom .left h4 {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+  }
+  #Testmonail .bottom .left h6 {
+    font-size: 12px;
+    line-height: 0px;
   }
 }
